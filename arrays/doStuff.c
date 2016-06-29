@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int doStuff(int arg1, int arg2);
+int doStuff(int, int);
 
 int main() {
   int x = 5; int y =10; int z;
