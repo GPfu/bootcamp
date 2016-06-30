@@ -1,10 +1,10 @@
 #include <stdio.h>
 
-void swap(int *a, int *b) {
+void swap(int *a0, int *b0) {
     int temp;
-    temp = *a;
-    *a = *b;
-    *b = temp;
+    temp = *a0;
+    *a0 = *b0;
+    *b0 = temp;
 
 
 }
